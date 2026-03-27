@@ -1,6 +1,6 @@
 <div align=center>
+从这个 工程复制的  https://github.com/WeThinkIn/AIGC-Interview-Book 
 
-# 🔥【三年面试五年模拟】AIGC算法岗/开发岗的面试求职秘籍
 
 【Three Years of Interviews, Five Years of Practice】The Ultimate Guide to **AIGC Interview、LLMs Interview、AI Agent Interview、Deep Learning Interview、Algorithm Engineer Interview**
 
